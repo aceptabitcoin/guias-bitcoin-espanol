@@ -106,5 +106,5 @@ Instagram
 
 🚀 ¡Colabora, traduce o comparte este proyecto con quien más lo necesite!
 
-Actualiza README completo con visión educativa
+
 
