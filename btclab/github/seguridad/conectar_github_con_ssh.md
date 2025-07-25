@@ -1,6 +1,9 @@
 # 🔐 Conectar GitHub con SSH desde la terminal (macOS / Linux)
 
 > Guía profesional y paso a paso para configurar una clave SSH, agregarla a GitHub y trabajar desde la terminal con autenticación segura.
+>
+> Checa este link version en ingles y abajo te doy el paso paso 
+> https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 
 ---
 
@@ -21,6 +24,8 @@
 ---
 
 ## 1️⃣ Instalar Git (si no lo tienes)
+
+Abre terminal desde tu dispositivo MAC WINDOWS LINUX 
 
 Verifica si ya lo tienes:
 
